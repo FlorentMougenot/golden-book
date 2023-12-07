@@ -1,0 +1,1 @@
+# Management Rules for GOLDEN-BOOK API
